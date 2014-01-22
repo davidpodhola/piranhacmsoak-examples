@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>@Page.Title</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+        @UI.Head()
+
+        <link type="text/css" rel="stylesheet" href="~/content/css/style.css" />
+
+        <link rel="stylesheet" href="~/css/metro-bootstrap.css">
+        <script src="~/js/jquery/jquery.min.js"></script>
+        <script src="~/js/jquery/jquery.widget.min.js"></script>
+        <script src="~/js/metro/metro.min.js"></script>
+
+
+        @RenderSection("head", required: false)
+    </head>
+    <body class="metro">>
+        <header role="banner">
+            <div class="wrapper">
+                <a class="site-title" href="~/">@Site.SiteTitle</a>
+                <p class="site-desc">@Site.SiteDescription</p>
+                <nav class="navigation-bar white">
+                    <nav class="navigation-bar-content">
+                            @UI.Menu(StopLevel: 1)
+                    </nav>
+                </nav>
+            </div>
+        </header>
+        <div class="wrapper">
+            
+            <button class="command-button primary">
+    <i class="icon-share-2 on-left"></i>
+    Yes, share and connect
+    <small>Use this option for home or work</small>
+</button>
+
+            <br />
+
+            @RenderBody()
+        </div>
+    </body>
+    @RenderSection("script", required: false)
+</html>
