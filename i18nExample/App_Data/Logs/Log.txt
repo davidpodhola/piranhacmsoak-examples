@@ -1,0 +1,147 @@
+ERROR [2014-02-10 18:45:52] Origin [WebPiranha.BeginRequest] Message [Unhandled exception]
+System.Globalization.CultureNotFoundException: Culture is not supported.
+Parameter name: name
+auto:en is an invalid culture identifier.
+   at System.Globalization.CultureInfo..ctor(String name, Boolean useUserOverride)
+   at System.Globalization.CultureInfo..ctor(String name)
+   at Piranha.WebPages.WebPiranha.BeginRequest(HttpContext context) in c:\Proj\GitHub\Piranha\Piranha\WebPages\WebPiranha.cs:line 278
+ERROR [2014-02-10 18:46:19] Origin [WebPiranha.BeginRequest] Message [Unhandled exception]
+System.Globalization.CultureNotFoundException: Culture is not supported.
+Parameter name: name
+auto:en is an invalid culture identifier.
+   at System.Globalization.CultureInfo..ctor(String name, Boolean useUserOverride)
+   at System.Globalization.CultureInfo..ctor(String name)
+   at Piranha.WebPages.WebPiranha.BeginRequest(HttpContext context) in c:\Proj\GitHub\Piranha\Piranha\WebPages\WebPiranha.cs:line 278
+ERROR [2014-02-10 18:47:59] Origin [WebPiranha.BeginRequest] Message [Unhandled exception]
+System.Globalization.CultureNotFoundException: Culture is not supported.
+Parameter name: name
+auto:en is an invalid culture identifier.
+   at System.Globalization.CultureInfo..ctor(String name, Boolean useUserOverride)
+   at System.Globalization.CultureInfo..ctor(String name)
+   at Piranha.WebPages.WebPiranha.BeginRequest(HttpContext context) in c:\Users\david.podhola\Documents\Visual Studio 2013\Projects\Piranha\Piranha\WebPages\WebPiranha.cs:line 278
+ERROR [2014-02-10 18:48:20] Origin [WebPiranha.BeginRequest] Message [Unhandled exception]
+System.Globalization.CultureNotFoundException: Culture is not supported.
+Parameter name: name
+auto:en is an invalid culture identifier.
+   at System.Globalization.CultureInfo..ctor(String name, Boolean useUserOverride)
+   at System.Globalization.CultureInfo..ctor(String name)
+   at Piranha.WebPages.WebPiranha.BeginRequest(HttpContext context) in c:\Users\david.podhola\Documents\Visual Studio 2013\Projects\Piranha\Piranha\WebPages\WebPiranha.cs:line 278
+ERROR [2014-02-10 18:48:55] Origin [WebPiranha.BeginRequest] Message [Unhandled exception]
+System.Globalization.CultureNotFoundException: Culture is not supported.
+Parameter name: name
+auto:en is an invalid culture identifier.
+   at System.Globalization.CultureInfo..ctor(String name, Boolean useUserOverride)
+   at System.Globalization.CultureInfo..ctor(String name)
+   at Piranha.WebPages.WebPiranha.BeginRequest(HttpContext context) in c:\Users\david.podhola\Documents\Visual Studio 2013\Projects\Piranha\Piranha\WebPages\WebPiranha.cs:line 278
+ERROR [2014-02-10 18:49:59] Origin [WebPiranha.BeginRequest] Message [Unhandled exception]
+System.Globalization.CultureNotFoundException: Culture is not supported.
+Parameter name: name
+auto:en is an invalid culture identifier.
+   at System.Globalization.CultureInfo..ctor(String name, Boolean useUserOverride)
+   at System.Globalization.CultureInfo..ctor(String name)
+   at Piranha.WebPages.WebPiranha.BeginRequest(HttpContext context) in c:\Users\david.podhola\Documents\Visual Studio 2013\Projects\Piranha\Piranha\WebPages\WebPiranha.cs:line 278
+ERROR [2014-02-10 18:50:16] Origin [WebPiranha.BeginRequest] Message [Unhandled exception]
+System.Globalization.CultureNotFoundException: Culture is not supported.
+Parameter name: name
+auto:en is an invalid culture identifier.
+   at System.Globalization.CultureInfo..ctor(String name, Boolean useUserOverride)
+   at System.Globalization.CultureInfo..ctor(String name)
+   at Piranha.WebPages.WebPiranha.BeginRequest(HttpContext context) in c:\Users\david.podhola\Documents\Visual Studio 2013\Projects\Piranha\Piranha\WebPages\WebPiranha.cs:line 278
+ERROR [2014-02-10 18:50:51] Origin [WebPiranha.BeginRequest] Message [Unhandled exception]
+System.Globalization.CultureNotFoundException: Culture is not supported.
+Parameter name: name
+auto:en is an invalid culture identifier.
+   at System.Globalization.CultureInfo..ctor(String name, Boolean useUserOverride)
+   at System.Globalization.CultureInfo..ctor(String name)
+   at Piranha.WebPages.WebPiranha.BeginRequest(HttpContext context) in c:\Users\david.podhola\Documents\Visual Studio 2013\Projects\Piranha\Piranha\WebPages\WebPiranha.cs:line 278
+ERROR [2014-02-10 18:51:15] Origin [WebPiranha.BeginRequest] Message [Unhandled exception]
+System.Globalization.CultureNotFoundException: Culture is not supported.
+Parameter name: name
+auto:en is an invalid culture identifier.
+   at System.Globalization.CultureInfo..ctor(String name, Boolean useUserOverride)
+   at System.Globalization.CultureInfo..ctor(String name)
+   at Piranha.WebPages.WebPiranha.BeginRequest(HttpContext context) in c:\Users\david.podhola\Documents\Visual Studio 2013\Projects\Piranha\Piranha\WebPages\WebPiranha.cs:line 278
+ERROR [2014-02-10 18:58:00] Origin [WebPiranha.BeginRequest] Message [Unhandled exception]
+System.Globalization.CultureNotFoundException: Culture is not supported.
+Parameter name: name
+auto:en is an invalid culture identifier.
+   at System.Globalization.CultureInfo..ctor(String name, Boolean useUserOverride)
+   at System.Globalization.CultureInfo..ctor(String name)
+   at Piranha.WebPages.WebPiranha.BeginRequest(HttpContext context) in c:\Users\david.podhola\Documents\Visual Studio 2013\Projects\Piranha\Piranha\WebPages\WebPiranha.cs:line 278
+ERROR [2014-02-10 18:58:25] Origin [WebPiranha.BeginRequest] Message [Unhandled exception]
+System.Globalization.CultureNotFoundException: Culture is not supported.
+Parameter name: name
+auto:en is an invalid culture identifier.
+   at System.Globalization.CultureInfo..ctor(String name, Boolean useUserOverride)
+   at System.Globalization.CultureInfo..ctor(String name)
+   at Piranha.WebPages.WebPiranha.BeginRequest(HttpContext context) in c:\Users\david.podhola\Documents\Visual Studio 2013\Projects\Piranha\Piranha\WebPages\WebPiranha.cs:line 278
+ERROR [2014-02-10 18:59:31] Origin [WebPiranha.BeginRequest] Message [Unhandled exception]
+System.Globalization.CultureNotFoundException: Culture is not supported.
+Parameter name: name
+auto:en is an invalid culture identifier.
+   at System.Globalization.CultureInfo..ctor(String name, Boolean useUserOverride)
+   at System.Globalization.CultureInfo..ctor(String name)
+   at Piranha.WebPages.WebPiranha.BeginRequest(HttpContext context) in c:\Users\david.podhola\Documents\Visual Studio 2013\Projects\Piranha\Piranha\WebPages\WebPiranha.cs:line 278
+ERROR [2014-02-10 19:02:52] Origin [WebPiranha.BeginRequest] Message [Unhandled exception]
+System.Globalization.CultureNotFoundException: Culture is not supported.
+Parameter name: name
+auto:en is an invalid culture identifier.
+   at System.Globalization.CultureInfo..ctor(String name, Boolean useUserOverride)
+   at System.Globalization.CultureInfo..ctor(String name)
+   at Piranha.WebPages.WebPiranha.BeginRequest(HttpContext context) in c:\Users\david.podhola\Documents\Visual Studio 2013\Projects\Piranha\Piranha\WebPages\WebPiranha.cs:line 278
+ERROR [2014-02-10 19:03:22] Origin [WebPiranha.BeginRequest] Message [Unhandled exception]
+System.Globalization.CultureNotFoundException: Culture is not supported.
+Parameter name: name
+auto:en is an invalid culture identifier.
+   at System.Globalization.CultureInfo..ctor(String name, Boolean useUserOverride)
+   at System.Globalization.CultureInfo..ctor(String name)
+   at Piranha.WebPages.WebPiranha.BeginRequest(HttpContext context) in c:\Users\david.podhola\Documents\Visual Studio 2013\Projects\Piranha\Piranha\WebPages\WebPiranha.cs:line 278
+ERROR [2014-02-10 19:03:47] Origin [WebPiranha.BeginRequest] Message [Unhandled exception]
+System.Globalization.CultureNotFoundException: Culture is not supported.
+Parameter name: name
+auto:en is an invalid culture identifier.
+   at System.Globalization.CultureInfo..ctor(String name, Boolean useUserOverride)
+   at System.Globalization.CultureInfo..ctor(String name)
+   at Piranha.WebPages.WebPiranha.BeginRequest(HttpContext context) in c:\Users\david.podhola\Documents\Visual Studio 2013\Projects\Piranha\Piranha\WebPages\WebPiranha.cs:line 278
+ERROR [2014-02-10 19:03:49] Origin [WebPiranha.BeginRequest] Message [Unhandled exception]
+System.Globalization.CultureNotFoundException: Culture is not supported.
+Parameter name: name
+auto:en is an invalid culture identifier.
+   at System.Globalization.CultureInfo..ctor(String name, Boolean useUserOverride)
+   at System.Globalization.CultureInfo..ctor(String name)
+   at Piranha.WebPages.WebPiranha.BeginRequest(HttpContext context) in c:\Users\david.podhola\Documents\Visual Studio 2013\Projects\Piranha\Piranha\WebPages\WebPiranha.cs:line 278
+ERROR [2014-02-10 19:04:18] Origin [WebPiranha.BeginRequest] Message [Unhandled exception]
+System.Globalization.CultureNotFoundException: Culture is not supported.
+Parameter name: name
+auto:en is an invalid culture identifier.
+   at System.Globalization.CultureInfo..ctor(String name, Boolean useUserOverride)
+   at System.Globalization.CultureInfo..ctor(String name)
+   at Piranha.WebPages.WebPiranha.BeginRequest(HttpContext context) in c:\Users\david.podhola\Documents\Visual Studio 2013\Projects\Piranha\Piranha\WebPages\WebPiranha.cs:line 278
+ERROR [2014-02-10 19:04:20] Origin [WebPiranha.BeginRequest] Message [Unhandled exception]
+System.Globalization.CultureNotFoundException: Culture is not supported.
+Parameter name: name
+auto:en is an invalid culture identifier.
+   at System.Globalization.CultureInfo..ctor(String name, Boolean useUserOverride)
+   at System.Globalization.CultureInfo..ctor(String name)
+   at Piranha.WebPages.WebPiranha.BeginRequest(HttpContext context) in c:\Users\david.podhola\Documents\Visual Studio 2013\Projects\Piranha\Piranha\WebPages\WebPiranha.cs:line 278
+ERROR [2014-02-10 19:06:07] Origin [WebPiranha.BeginRequest] Message [Unhandled exception]
+System.Globalization.CultureNotFoundException: Culture is not supported.
+Parameter name: name
+auto:en is an invalid culture identifier.
+   at System.Globalization.CultureInfo..ctor(String name, Boolean useUserOverride)
+   at System.Globalization.CultureInfo..ctor(String name)
+   at Piranha.WebPages.WebPiranha.BeginRequest(HttpContext context) in c:\Users\david.podhola\Documents\Visual Studio 2013\Projects\Piranha\Piranha\WebPages\WebPiranha.cs:line 278
+ERROR [2014-02-10 19:06:27] Origin [WebPiranha.BeginRequest] Message [Unhandled exception]
+System.Globalization.CultureNotFoundException: Culture is not supported.
+Parameter name: name
+auto:en is an invalid culture identifier.
+   at System.Globalization.CultureInfo..ctor(String name, Boolean useUserOverride)
+   at System.Globalization.CultureInfo..ctor(String name)
+   at Piranha.WebPages.WebPiranha.BeginRequest(HttpContext context) in c:\Users\david.podhola\Documents\Visual Studio 2013\Projects\Piranha\Piranha\WebPages\WebPiranha.cs:line 278
+ERROR [2014-02-10 19:07:59] Origin [WebPiranha.BeginRequest] Message [Unhandled exception]
+System.Globalization.CultureNotFoundException: Culture is not supported.
+Parameter name: name
+auto:en is an invalid culture identifier.
+   at System.Globalization.CultureInfo..ctor(String name, Boolean useUserOverride)
+   at System.Globalization.CultureInfo..ctor(String name)
+   at Piranha.WebPages.WebPiranha.BeginRequest(HttpContext context) in c:\Users\david.podhola\Documents\Visual Studio 2013\Projects\Piranha\Piranha\WebPages\WebPiranha.cs:line 278
