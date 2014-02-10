@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿@using i18nExample.Code52.i18n
+<!DOCTYPE html>
 <html lang="en">
     <head>
         <title>@Page.Title</title>
@@ -9,7 +10,11 @@
 
         <link type="text/css" rel="stylesheet" href="~/content/css/style.css" />
 
+        <script type="text/javascript" src="@Url.Content("~/Scripts/jquery-1.4.4.js")"></script>
+
         @RenderSection("head", required: false)
+
+        <link href="@Url.Content("~/Content/Code52.i18n/Code52.i18n.css")" rel="stylesheet" type="text/css" />
     </head>
     <body>
         <header role="banner">
@@ -22,8 +27,25 @@
             </div>
         </header>
         <div class="wrapper">
+            @Html.Partial("LanguageSelection")
             @RenderBody()
         </div>
+
+        <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.9/jquery.validate.min.js"></script>
+        <script type="text/javascript" src="@Url.Content("~/Scripts/globalize/globalize.js")"></script>
+        <script type="text/javascript" src="@Url.Content("~/Scripts/jquery.cookie.js")"></script>
+        <script type="text/javascript"
+                src="@Url.Content(string.Format("~/Scripts/globalize/cultures/globalize.culture.{0}.js", CultureHelper.GetCurrentCulture()))"></script>
+        @if (CultureHelper.GetCurrentNeutralCulture() != "en")
+        {
+            <script type="text/javascript"
+                    src="@String.Format("http://ajax.aspnetcdn.com/ajax/jquery.validate/1.9/localization/messages_{0}.js", CultureHelper.GetCurrentNeutralCulture())"></script>
+        }
+        <script type="text/javascript" src="@Url.Content("~/Scripts/Code52.i18n.js")"></script>
+        <script type="text/javascript" src="@Url.Content("/i18n/Code52.i18n.language.js")"></script>
+        <script type="text/javascript">
+            Code52.Language.Init('@CultureHelper.GetCurrentCulture()');
+        </script>
     </body>
     @RenderSection("script", required: false)
 </html>
